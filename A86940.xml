@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The warr in New-England visibly ended King Philip that barbarous Indian now beheaded, and most of his bloudy adherents submitted to mercy, the rest far up into the countrey which hath given the inhabitants encouragement to prepare for their settlement : being a true and perfect account brought in by Caleb More master of a vessel newly arrived from Rhode Island : and published for general satisfaction.</title>
+            <author>Hutchinson, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86940</idno>
+            <idno type="STC">Wing H3835</idno>
+            <idno type="STC">ESTC R178330</idno>
+            <idno type="EEBO-CITATION">42475054</idno>
+            <idno type="OCLC">ocm 42475054</idno>
+            <idno type="VID">151179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2248:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The warr in New-England visibly ended King Philip that barbarous Indian now beheaded, and most of his bloudy adherents submitted to mercy, the rest far up into the countrey which hath given the inhabitants encouragement to prepare for their settlement : being a true and perfect account brought in by Caleb More master of a vessel newly arrived from Rhode Island : and published for general satisfaction.</title>
+                  <author>Hutchinson, Richard.</author>
+                  <author>More, Caleb.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. for Francis Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R.H.</note>
+                  <note>Attributed to Hutchinson by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>King Philip's War, 1675-1676.</term>
+               <term>Indians of North America --  Wars --  1600-1750.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151179:1"/>
+            <!-- PDF PAGE 52 -->
+            <p>THE WARR IN NEW-ENGLAND VISIBLY ENDED. King <hi>PHILIP</hi> that barbarous <hi>Indian</hi> now Be<g ref="char:EOLhyphen"/>headed, and moſt of his Bloudy Adherents ſubmitted to Mercy, the Reſt fled far up into the Countrey, which hath given the Inhabitants Encouragement to prepare for their Settlement.</p>
+            <p>Being a True and Perfect Account brought in by <hi>Caleb More</hi> Maſter of a Veſſel newly Arrived from <hi>Rhode-Iſland.</hi> And Publiſhed for general Satisfaction.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>November</hi> 4. </date>
+                           </dateline> 
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. B.</hi> for <hi>Francis Smith</hi> at the Elephant and Caſtle in <hi>Cornhill,</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151179:2"/>
+            <!-- PDF PAGE 53 -->
+            <pb n="1" facs="tcp:151179:2"/>
+            <!-- PDF PAGE 53 -->
+            <head>NEW ENGLANDS WARR Viſibly Ended.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my laſt, which I hope you received, I muſt acknowledge what I writ (though truth) yet I had not that comfortable ſa<g ref="char:EOLhyphen"/>tisfaction in my ſpirit, to give me hopes, that our publique Ca<g ref="char:EOLhyphen"/>lamities were ſo near an end as now I have, which God in Mer<g ref="char:EOLhyphen"/>cy ſanctifie to us, that we may ſee the Rod, and wherefore it is come.</p>
+            <p>We have been, and ſtill are ready to put different Reflections upon the Murders and Spoils that have been made upon us by this Deſtructive War: Various are mens thoughts why God hath ſuf<g ref="char:EOLhyphen"/>fered it, all acknowledge it was for ſin; many wiſh there hath not been ſome leaven of that ſpirit in the provocation for which we left <hi>Old England:</hi> I am in great pain while I write, to remem<g ref="char:EOLhyphen"/>ber how ſevere ſome of us have been to Deſſenters, making Spoil without pity, but God is teaching us Moderation.</p>
+            <p>That black cloud (God be thanked) begins to waſte almoſt to no<g ref="char:EOLhyphen"/>thing, which may not only give us an hopefull opportunity of re<g ref="char:EOLhyphen"/>pairing the Spoils made by our Barbarous Neighbours, but alſo de<g ref="char:EOLhyphen"/>liberating upon the true cauſes of theſe great diſtractions: for now we have no viſible appearance of an Enemy: Terrour is fallen up<g ref="char:EOLhyphen"/>on very many, who come in dayly with ſubmiſſion, and the reſt withdraw into places remote, hiding their weapons of War, and flying from Juſtice in ſmall Numbers.</p>
+            <p>King <hi>Philip,</hi> who hath been a peſtilent Ringleader, that had once three hundred men (Barbarouſly inclined) as I told you in my laſt, was reduced to ten, but now is killed, in this manner. He being hid in a <hi>Swamp</hi> on <hi>Mount Hope-neck,</hi> with his little Party, one of his <hi>Indians</hi> being diſcontented with him, made an eſcape from him, and came to <hi>Rhode-Iſland,</hi> and informed Captain <hi>Church</hi> a <hi>Plimouth</hi>-Captain of a Company that was in ſearch after this ſaid King <hi>Phi<g ref="char:EOLhyphen"/>lip,</hi> (the Captain being at this time on the ſaid Iſland, refreſhing his men with Neceſſary Proviſions) but underſtanding where King <hi>Philip</hi> was, and that he intended very ſpeedily to remove far off, to provide his Winter-quarters, retaining ſtill the ſame Barbarous ſpirit and purpoſes, without the leaſt appearance of reluctancy or offers of Mediation, towards his ſurrender to Mercy; whereupon
+<pb n="2" facs="tcp:151179:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 54 -->the ſaid Captain and his company with ſome <hi>Rhode-Iſland</hi> men went in purſuit and ſearch after him, taking an <hi>Indian</hi> Guide with them, and beſet a <hi>Swamp</hi> where they heard he was, which was very mi<g ref="char:EOLhyphen"/>ry, and the ground ſo looſe, that our men ſunk to the middle in their attempts, to come at this ſculking Company, but all in vain, the paſſage was to difficult.</p>
+            <p>While we were thus beſet with difficulties in this attempt, the Providence of God wonderfully appeared; for by chance the <hi>Indian</hi> Guide and the <hi>Plimouth</hi> man, being together, the Guide eſpied an <hi>Indian,</hi> and bids the <hi>Plimouth</hi>-man ſhoot, whoſe gun went not off, only flaſhed in the pan; with that the <hi>Indian</hi> look'd about, and was going to ſhoot, but the <hi>Plimouth</hi>-man prevented him, and ſhot the Enemy through the body, dead, with a brace of Bullets; and ap<g ref="char:EOLhyphen"/>proaching the place where he lay, upon ſearch, it appeared to be King <hi>Philip,</hi> to their no ſmall amazement and great joy: This ſea<g ref="char:EOLhyphen"/>ſonable Prey was ſoon divided, they cut off his head, and hands, and conveyed them to <hi>Rhode-Iſland,</hi> and quartered his body, and hung it upon four Trees: One <hi>Indian</hi> more of King <hi>Philips</hi> Com<g ref="char:EOLhyphen"/>pany they then killed, and ſome of the reſt they wounded, but the <hi>Swamp</hi> being ſo thick and miry, they made their Eſcape.</p>
+            <p>This is the ſubſtance of this Enterprize, and the ſmall remnant we left as inconſiderable, who muſt either fly up into the Coun<g ref="char:EOLhyphen"/>trey<g ref="char:punc">▪</g> or periſh in the place.</p>
+            <p>There is one <hi>Potuck,</hi> a miſcheivous Engine, and a Counſellour, taken formerly, ſaid to be in Goal at <hi>Rhode-Iſland,</hi> is now ſent to <hi>Boſton,</hi> and there ſhot to death. One <hi>Quonepin</hi> a young luſty <hi>Sa<g ref="char:EOLhyphen"/>chem,</hi> and a very Rogue is now in Goal at <hi>Rhode-Iſland,</hi> who was there ſome years ago for his Miſdemeanours, but broke Goal, and run away, and could never till now be laid hold on.</p>
+            <p>God be thanked, many <hi>Indians</hi> come in daily, and ſubmit them<g ref="char:EOLhyphen"/>ſelves with much dejection, crying out againſt King <hi>Phillip,</hi> and o<g ref="char:EOLhyphen"/>ther ill Counſellors, as the cauſes of their Misfortunes.</p>
+            <p>The Engliſh go many of them now to their Old Habitations, and Mow down their Ground, and make hay, and do other occaſions neceſſary for their re-ſetling: All which gives us comfortable hope, that God will graciouſly repair our breaches, and cauſe this Bloody War to End in a laſting Peace, So prays,</p>
+            <closer>
+               <signed>Your faithfull friend, <hi>R. H.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
